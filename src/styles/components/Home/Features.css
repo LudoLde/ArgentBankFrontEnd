@@ -1,0 +1,10 @@
+.features {
+   display: flex;
+   flex-direction: row;
+}
+
+@media screen and (max-width: 920px) {
+   .features {
+      flex-direction: column;
+   }
+}
