@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleUser } from "@fortawesome/free-solid-svg-icons";
 import { faRightFromBracket } from "@fortawesome/free-solid-svg-icons";
-import logo from "../assets/img/argentBankLogo.png";
+import logo from "../assets/img/argentBankLogo.webp";
 import "/Users/ludzy/Desktop/ArgentBank-Frontend/argentbank/src/styles/Header.css";
 import { NavLink } from "react-router-dom";
 import { useDispatch } from "react-redux";
