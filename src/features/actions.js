@@ -8,7 +8,6 @@ export const loginSuccess = (token, status, message) => {
       },
    };
 };
-
 export const loginFailure = (status, message) => {
    return {
       type: "LOGIN_FAILURE",

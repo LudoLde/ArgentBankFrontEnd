@@ -22,3 +22,9 @@
 .main-nav-item:hover {
    text-decoration: underline;
 }
+
+@media screen and (max-width: 380px) {
+   .main-nav {
+      padding: 5px 9px;
+   }
+}
